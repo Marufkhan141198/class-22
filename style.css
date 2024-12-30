@@ -9,9 +9,12 @@ background-image: url(image/bg\ image.jpeg);
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
-height: 100vh;
+height: 400px;
 align-items: center;
 display: flex;
 justify-content: center;
 color: aliceblue;
+}
+.custom-ml {
+    margin-left: 40px;
 }
