@@ -18,3 +18,40 @@ color: aliceblue;
 .custom-ml {
     margin-left: 40px;
 }
+.custom-btn{
+    border-radius: 20px;
+    background-color: rgb(212, 196, 22);
+    border:none ;
+    padding: 10px;
+    text-decoration: none;
+    transition: background-color o.5s ease;
+}
+.custom-btn:hover{
+    background-color: green;
+    color: white;
+}
+.mt-custom {
+    padding: 60px 0px;
+}
+.mt-custom h2{
+    text-align: center;
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+}
+.custom-f {
+border-radius: 15px;
+padding: 30px;
+box-shadow: -27px 18px 8px 5px rgba(0, 0, 0,0.1 );
+margin-bottom: 20px;
+transition: transform 0.5s ease;
+background-color: bisque;
+}
+.custom-f:hover{
+transform: translate(-10px);
+} 
+.custom-cr{
+    color: brown;
+    text-align: center;
+    font-weight: 600;
+}
