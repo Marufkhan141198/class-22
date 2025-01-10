@@ -55,3 +55,31 @@ transform: translate(-10px);
     text-align: center;
     font-weight: 600;
 }
+.checkout-section{
+    padding: 60px 0px;
+}
+.checkout-section h2{
+    text-align: center;
+    font-weight: 600;
+    color: brown;
+}
+.cehckout-form{
+    width: 600px;
+    margin: auto;
+    padding: 30px;
+    background-color: rgb(24, 253, 55);
+    box-shadow: -27px 40px 5px 5px rgba(170, 110, 67, 0.1);
+}
+.footer {
+    padding: 30px 0px;
+    background-color: rgb(33, 30, 30);
+    color: rgb(237, 245, 245);
+}
+.social-icons a{
+    color: aliceblue;
+    font-size: 25px;
+    transition: color 0.5s ease;
+}
+.social-icons a:hover{
+    color:blue
+}
