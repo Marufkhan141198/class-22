@@ -133,3 +133,31 @@ transform: translate(-10px);
                 }
                 }
     
+                @media screen and (max-width: 630px){
+                    .img-responsive{
+                        width: 650px;
+                        padding:px;
+                        margin-left: 40px;
+                    }
+                    }
+                    @media screen and (max-width: 560px){
+                        .img-responsive{
+                            width: 600px;
+                            padding:px;
+                            margin-left: 40px;
+                        }
+                        }
+                        @media screen and (max-width: 530px){
+                            .img-responsive{
+                                width: 600px;
+                                padding:px;
+                                margin-left: 40px;
+                                margin-right: 10px;
+
+                            }
+                            }
+                            @media screen and (max-width:620px) {
+                              .footer{
+                                width: 700px;
+                              }  
+                            }
