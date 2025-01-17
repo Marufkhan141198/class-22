@@ -124,12 +124,18 @@ transform: translate(-10px);
                 padding:px;
                 margin-left: 20px;
             }
+            .custom-f{
+                margin-left: 40px;
+            }
             }
             @media screen and (max-width: 412px){
                 .img-responsive{
                     width: 400px;
                     padding:px;
                     margin-left: 40px;
+                }
+                .custom-f{
+                    margin-left: 65px;
                 }
                 }
     
@@ -145,6 +151,9 @@ transform: translate(-10px);
                             width: 600px;
                             padding:px;
                             margin-left: 40px;
+                        }
+                        .custom-f{
+                            margin-left: ;
                         }
                         }
                         @media screen and (max-width: 530px){
